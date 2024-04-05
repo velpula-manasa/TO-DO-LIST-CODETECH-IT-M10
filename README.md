@@ -37,7 +37,7 @@ The To-Do List application provides users with a simple interface to manage thei
 
 5. JavaScript Functionality (app.js)
 
-    Add Task Function: addTask() adds a new task to the list when the "Add Task" button is clicked. It also validates the input box to ensure it is not empty.
+    Add Task Function: addTask() adds a new task to the list when the "Add Task" button is clicked. It also validates the input box to ensure it is not empty. 
 
                             
     Save Data Function: saveData() saves tasks to the browser's local storage.
