@@ -29,17 +29,19 @@ The To-Do List application provides users with a simple interface to manage thei
 
 4. JavaScript Functionality (app.js)
 
-    Add Task Function: addTask() adds a new task to the list when the "Add Task" button is clicked. It also validates the input box to ensure it is not empty.
+    Add Task Function: addTask() adds a new task to the list when the "Add Task" button is clicked. It also validates the input box to ensure it is not empty.                          
     Save Data Function: saveData() saves tasks to the browser's local storage.
+   
     Show Task Function: showTask() retrieves and displays tasks from local storage when the page loads.
+   
     Event Listeners: Listens for clicks on list items and span elements within the list container to toggle task completion and remove tasks.
 
-5. Additional Notes
+6. Additional Notes
 
     Local Storage: The application utilizes local storage to persist tasks, ensuring they are retained even after page reloads.
     Font: The application uses the "Poppins" font from Google Fonts for consistent typography.
     Author Information: The author information is displayed at the bottom of the page.
 
-6. Conclusion
+7. Conclusion
 
 This documentation provides a comprehensive overview of the To-Do List application, including its structure, styling, functionality, and additional features. Users can refer to this documentation to understand how the application works and how they can interact with it.
