@@ -22,7 +22,7 @@ The To-Do List application provides users with a simple interface to manage thei
 
     Global Styles: Defines global styles such as margins, paddings, and font family.
     Custom Properties: Defines custom properties for colors.
-    Container Styles: Styles the main container for the To-Do List application.
+    Container Styles: Styles the main container for the To-Do List application.     
     Header Styles: Styles the header section, including the title.
     Input Section Styles: Styles the input box and "Add Task" button.
     Task List Styles: Styles the task list and individual task items.
